@@ -55,6 +55,7 @@ The notebook is organized as follows:
 4. Create a `Leaner`, provided by fastai.
 5. Train the model
 6. Analyze results
+7. Save the model
 
 ## Conclusion
 
